@@ -1,0 +1,12 @@
+{
+  "name": "local-autoclick-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node autoclick-playwright.js"
+  },
+  "dependencies": {
+    "playwright": "1.53.0"
+  }
+}

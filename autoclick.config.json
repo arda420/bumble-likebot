@@ -1,0 +1,17 @@
+{
+  "targetUrl": "https://gew3.bumble.com/get-started",
+  "target": "[data-qa-icon-name=\"floating-action-yes\"]",
+  "intervalMs": 800,
+  "clicksPerLoop": 1,
+  "stopWhenMissing": true,
+  "missLimit": 99,
+  "headless": false,
+  "slowMoMs": 0,
+  "waitForTargetBeforeClick": true,
+  "refreshWhenSelector": "[data-qa-role=\"cta-box-title\"]",
+  "refreshWhenText": "all caught up",
+  "refreshIntervalMs": 5000,
+  "refreshUntilTargetVisible": true,
+  "browserExecutablePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "userDataDir": "./playwright-profile"
+}
