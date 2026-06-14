@@ -1,4 +1,4 @@
-# Bumble Farmbot
+# Bumble Like Bot
 
 A configurable Playwright-based Chrome automation tool designed specifically for the Bumble Web interface. It automates profile swiping, match collection, and account interactions.
 
